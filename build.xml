@@ -4,6 +4,9 @@
 
 
 
+
+<!-- revathi edited Project-specific configuration -->
+
   <!-- Project-specific configuration -->
   <loadproperties srcfile="project.properties"/>
   <property name="main.class" value="${package.main}.${ant.project.name}"/>
